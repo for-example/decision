@@ -1,0 +1,53 @@
+body {
+  font: 16px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+.case {
+  margin-bottom: 20px;
+}
+
+.caseLabel {
+  margin-left: 10px;
+}
+
+.tabRow {
+  margin-bottom: 20px;
+}
+
+.selected {
+  font-weight: bold;
+}
+
+.completed {
+  background-color: #90EE90;
+}
+
+.editButton {
+  margin-left: 10px;
+}
+
+.compareRadio {
+  margin-left: 20px;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+table {
+  margin-top: 10px;
+  border-collapse: collapse;
+}
+
+.spacer {
+  width: 10px;
+  height: 10px;
+  border: none;
+  border-collapse: collapse;
+}
+
+.noborder {
+  border: none;
+}
